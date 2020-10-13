@@ -9,7 +9,7 @@ Be sure to see the rest of my work on my:
 
 <hr>
 
-### Current Projects:
+### Current Projects
 - Virtual Portfolio <br>
 - Full Stack Javascript/Ruby Project
 

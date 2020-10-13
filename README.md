@@ -13,9 +13,11 @@ Be sure to see the rest of my work on my:
 - Virtual Portfolio <br>
 - Full Stack Javascript/Ruby Project
 
+<!---
 ### Ask Me About:
  - Any projects on my portfolio, thoughts on my articles, or prospective employment opportunities!
+
 <!---
 ### Fun Facts:
 - I am classically trained at violin, have performed CPR to bring a patient out of cardiac arrest, and I practice yoga/meditation daily!
->
+--

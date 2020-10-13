@@ -15,7 +15,6 @@ Be sure to see the rest of my work on my:
 ### Current Projects:
 - Virtual Portfolio <br>
 - Full Stack Javascript/Ruby Project
-- (see below for more)
 
 ### Ask Me About:
  - Any projects on my portfolio, thoughts on my articles, or prospective employment opportunities!

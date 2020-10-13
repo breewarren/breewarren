@@ -5,12 +5,9 @@ I'm a software engineer based in Houston, Texas. You can find me along the mergi
 Be sure to see the rest of my work on my:
 [Virtual Portfolio](https://www.breewarren.github.io/) | [LinkedIn](https://www.linkedin.com/in/bree-warren/) |
 [Github](https://github.com/breewarren) | 
-[Medium](https://medium.com/@ambreea.warren)
+[Medium](https://medium.com/@ambreea.warren) | [Email](mailto:ambreea.warren@gmail.com)
 
 <hr>
-
-### Contact:
-- ambreea.warren@gmail.com
 
 ### Current Projects:
 - Virtual Portfolio <br>

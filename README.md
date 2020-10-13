@@ -1,4 +1,4 @@
-## Hi there, I'm Bree!
+## Hi, I'm Bree!
 I'm a software engineer based in Houston, Texas. You can find me along the merging of computer science, medicine, and health/fitness/welleness fields.
 
 ## Media Platforms

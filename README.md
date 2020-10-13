@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there, I'm Bree!
+I'm a software engineer based in Houston, Texas. You can find me along the merging of computer science, medicine, and health/fitness/welleness fields.
 
-<!--
-**breewarren/breewarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Media Platforms
+Be sure to see the rest of my work on my:
+[Virtual Portfolio](https://www.breewarren.github.io/) | [LinkedIn](https://www.linkedin.com/in/bree-warren/) |
+[Github](https://github.com/breewarren) | 
+[Medium](https://medium.com/@ambreea.warren)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects:
+- Virtual Portfolio <br>
+- Full Stack Javascript/Ruby Project
+
+### Current Learning Objectives:
+- Vanilla Javascript
+
+### Ask Me About:
+Any projects on my portfolio, thoughts on my articles, or employment opportunities
+
+### Contact:
+- ambreea.warren@gmail.com
+
+### Pronouns:
+- she/her
+
+### Fun Facts:
+- I am classically trained at violin, have performed CPR to bring a patient out of cardiac arrest, and I practice yoga/meditation daily!

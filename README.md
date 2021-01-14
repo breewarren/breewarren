@@ -4,7 +4,7 @@ I'm a full-stack software engineer based in Houston, Texas. Feel free to reach o
 Be sure to see the rest of my work on my:
 [Virtual Portfolio](https://www.breewarren.github.io/) | [LinkedIn](https://www.linkedin.com/in/bree-warren/) |
 [Github](https://github.com/breewarren) | 
-[Medium](https://medium.com/@ambreea.warren) | [Email](mailto:ambreea.warren@gmail.com)
+[Medium](https://ambreeawarren.medium.com/) | [Email](mailto:ambreea.warren@gmail.com)
 
 <hr>
 
